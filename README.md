@@ -21,6 +21,7 @@ In addition, you will be expected to produce the following three pie charts:
 * % of Total Drivers by City Type
 
 
+![alt text]https://github.com/ObliviousCloud/Pyber_Ride_Sharing_Analysis/blob/master/Images/Pyber_Ride_Sharing_Data.png
 ## Copyright
 
 Data Boot Camp © 2018. All Rights Reserved.
